@@ -33,7 +33,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,selenium,gherkin,git" /><br>
-    <img src="https://skillicons.dev/icons?i=github,sklearn,tensorflow,vscode,eclipse" />
+    <img src="https://skillicons.dev/icons?i=github,sklearn,tensorflow,vscode,eclipse,jenkins" />
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> </a><br>
 </div>
 
