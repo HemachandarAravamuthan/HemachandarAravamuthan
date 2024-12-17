@@ -32,7 +32,7 @@
 <h2 align="center"> Languages - Libraries - Skills</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,vscode,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,vscode,github,git" /><br>
     <img src="https://skillicons.dev/icons?i=sklearn,tensorflow" />
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="50" height="50"/> </a>
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> </a><br>
